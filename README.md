@@ -68,7 +68,7 @@ run ConsoleApplication1.cpp
 ## Acknowledgments
 
 *  [okdshin](https://github.com/okdshin/PicoSHA2/blob/master/example/hasher.cpp)
-*  [Savjee](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ
+*  [Savjee](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)
 
 
 
